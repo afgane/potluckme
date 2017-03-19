@@ -1,0 +1,5 @@
+scrapy
+scrapyd
+scrapyd-client
+psycopg2
+django
